@@ -1,0 +1,108 @@
+
+
+nav ul li a{
+    font-size: 15px !important;
+    text-transform: uppercase !important;
+    padding:6px 11px !important;
+    border-radius: 12px  !important;
+    font-weight: 200px !important;
+    text-decoration: none !important;
+    
+}   
+nav li{
+    padding: 7px !important;
+
+}
+
+nav a.active,nav a:hover{
+    background-color: rgb(255, 166, 0) !important;
+    transition: 0.6s ease !important;
+    color:white!important;
+    text-decoration: none !important;
+    font-weight: 200px;
+    }
+
+   /* .bg {
+        background-image: url('images/cover-image-65.jpg');        
+        height:100vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      */
+      .title{
+          color: white;
+          font-size:500px;
+          
+          
+      }
+      .carousel-indicators li{
+          width: 1px;
+          height: 1px;
+          border-radius: 600%;
+      }
+
+      .menuh1{
+        text-align: center;
+        font-weight: 790;
+        
+      }
+      .menu{
+          margin-top: 10px;
+          border-radius: 10px;
+      }
+      .wingsclass{
+          border-radius: 10px;
+          margin-bottom: 30px;
+      }
+
+      .story{
+        margin: 40px;
+        padding: 20px;
+    
+      }
+      .storyh1{
+        text-align: center;
+        font-weight: 900;
+        font-size: 50px;
+        
+      }
+      .aboutp{
+        text-align: center;
+        font-weight: 900;
+        font-size: 19px;
+        font-family:  'Chelsea Market', cursive;
+        color: cornsilk;
+      }
+
+      .contactp{
+        text-align: center;
+        font-weight: 900;
+        font-size: 16px;
+        font-family:  'Chelsea Market', cursive;
+        
+      }
+      .cfont{
+        font-family: 'Chelsea Market', cursive;
+        color: cornsilk;
+      }
+
+      .menu2{
+        
+          margin: 40px;
+          padding: 20px;
+      
+        
+      }
+      .inner
+      {
+        overflow: hidden;
+      }
+      .inner img{
+        transition: all 1.5s ease;
+      }
+
+      .inner:hover img{
+        transform: scale(1.2);
+      }
+     
